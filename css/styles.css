@@ -1,0 +1,68 @@
+
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather" ,sans-serif;
+  }
+  h1
+  {
+    font-size: 90px;
+    color:  #66BFBF ;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento";
+  }
+  h2
+  {
+          color:  #16BFBF ;
+          font-family: "montserrat";
+  }
+  h3
+  {
+        color: #11999E;
+        font-family: "montserrat";
+  }
+  p{
+    line-height: 2;
+  }
+  hr{
+border: dotted #EAF6f6 40px;
+    border-bottom: none;
+    width: 40%;
+    margin: 100px auto;
+
+  }
+.top-container
+{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 150px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.bottem-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:  50px;
+}
+.chillies-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.fun-image
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
